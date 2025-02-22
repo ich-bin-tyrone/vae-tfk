@@ -1,4 +1,4 @@
-# VAE-Based Image Interpolator
+# 🖼️ VAE-Based Image Interpolator
 
 ## Overview
 This project implements a Variational Autoencoder (VAE) based image interpolator. The model can generate new "in-between" images by interpolating between two different image classes. This is achieved by sampling from the latent space using a weighted combination of the distributions of the two classes.
