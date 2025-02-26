@@ -21,7 +21,7 @@ Ensure you have Python and the necessary dependencies installed.
 ### **1️⃣ Train the VAE Model**  
 Train the model on your dataset:  
 ```sh
-python train.py --dataset path/to/dataset
+python model.ipynb --dataset path/to/dataset
 ```
 
 ### **2️⃣ Perform Interpolation**  
