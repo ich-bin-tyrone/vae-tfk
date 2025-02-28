@@ -13,7 +13,7 @@ This project implements a **Variational Autoencoder (VAE)** based image interpol
 ---
 
 ## 📦 Installation  
-Ensure you have Python and the necessary dependencies installed.  
+Ensure you have installed Python and the necessary dependencies.  
 
 ---
 
